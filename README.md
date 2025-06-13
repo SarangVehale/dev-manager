@@ -135,7 +135,7 @@ Open an issue or submit a pull request — all contributions welcome.
 
 ## 📜 License
 
-MIT License © 2025 \[Your Name or GitHub Handle]
+MIT License © 2025 
 
 ---
 
