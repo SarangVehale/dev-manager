@@ -1,0 +1,12 @@
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# Ignore shell session files
+*.swp
+*~
+
+# Ignore virtualenv folders if you create any manually
+venv/
+.env/
+
